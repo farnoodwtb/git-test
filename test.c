@@ -23,7 +23,6 @@ int main()
 			for (int p=0;p<((max-b)/2);p++)
 			putchar(' ');
 			printf("%s",A[i]);
-			hip;
 			for (int p=0;p<((max-b)/2);p++)
 			putchar(' ');
 		}
