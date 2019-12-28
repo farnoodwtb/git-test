@@ -17,7 +17,7 @@ int main()
 	for(int i=0;i<a;i++)
 	{
 		b=strlen(A[i]);
-		putchar('*')
+		putchar('*');
 		if ((max-b)%2==0)
 		{
 			for (int p=0;p<((max-b)/2);p++)
