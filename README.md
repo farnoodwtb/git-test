@@ -19,7 +19,7 @@ Paste Some Code Here!
 
 ## Authors
 
-* **ِYour Name**- [your github ID](https://github.com/your github id)
+* **ِFarnood**- [Farnoodwtb](https://github.com/farnoodwtb)
 
 ## License
 
